@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Solar System
+
+Project #4a for [Panacloud Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/). Red Queen’s Race with Web Animation API and React Hooks
+
+- [React](https://github.com/facebook/react/)
+- [WAAPI](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
+- [React-Web-Animation-API](https://github.com/wellyshen/use-web-animations)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
